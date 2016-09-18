@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/public/user/plugins/admin/languages/el.yaml',
-    'modified' => 1471297025,
+    'modified' => 1474226705,
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_BETA_MSG' => 'Αυτή είναι μία έκδοση Beta! Χρησιμοποιήστε την στην Παραγωγή με δικό σας ρίσκο...',

@@ -1,5 +1,6 @@
 ---
 title: Technologies
+published: false
 ---
 
 # Initial Technologies

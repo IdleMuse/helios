@@ -2,6 +2,8 @@
 title: Backgrounds
 ---
 
+!! This section includes lots of 'X%' placeholders - these will be filled in before the game begins!
+
 # Character Backgrounds
 
 Every player starts with a background chosen from this page. Some backgrounds give you additional options, or increase the effectiveness of actions that you perform. While there are many people in the Helios system who don't work in these spheres, these represent the likely backgrounds of people who went on to have the prominence that player characters do.

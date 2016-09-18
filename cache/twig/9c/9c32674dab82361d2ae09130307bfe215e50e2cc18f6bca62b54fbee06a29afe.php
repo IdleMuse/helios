@@ -21,50 +21,54 @@ class __TwigTemplate_e548ac5e2078f8209ee7752a9ab3bac2d9de251377c9e4c5555baafa150
             echo "<script type=\"text/javascript\">
     window.GravAdmin = window.GravAdmin || {};
     window.GravAdmin.config = {
-        base_url_relative: '";
+        current_url: '";
             // line 5
+            echo twig_escape_filter($this->env, $this->getAttribute((isset($context["uri"]) ? $context["uri"] : null), "route", array(0 => true), "method"), "html", null, true);
+            echo "',
+        base_url_relative: '";
+            // line 6
             echo twig_escape_filter($this->env, (isset($context["base_url_relative"]) ? $context["base_url_relative"] : null), "html", null, true);
             echo "',
         route: '";
-            // line 6
+            // line 7
             echo twig_escape_filter($this->env, trim($this->getAttribute((isset($context["admin"]) ? $context["admin"] : null), "route", array()), "/"), "html", null, true);
             echo "',
         param_sep: '";
-            // line 7
+            // line 8
             echo twig_escape_filter($this->env, $this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "system", array()), "param_sep", array()), "html", null, true);
             echo "',
         ";
-            // line 8
+            // line 9
             if ($this->env->getExtension('GravTwigExtension')->authorize(array(0 => "admin.maintenance", 1 => "admin.super"))) {
-                // line 9
+                // line 10
                 echo "        enable_auto_updates_check: '";
                 echo twig_escape_filter($this->env, $this->getAttribute($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "plugins", array()), "admin", array()), "enable_auto_updates_check", array()), "html", null, true);
                 echo "',
         ";
             }
-            // line 11
+            // line 12
             echo "        admin_timeout: '";
             echo twig_escape_filter($this->env, (($this->getAttribute($this->getAttribute($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "plugins", array()), "admin", array()), "session", array()), "timeout", array())) ? ($this->getAttribute($this->getAttribute($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "plugins", array()), "admin", array()), "session", array()), "timeout", array())) : (1800)), "html", null, true);
             echo "',
         admin_nonce: '";
-            // line 12
+            // line 13
             echo twig_escape_filter($this->env, $this->getAttribute((isset($context["admin"]) ? $context["admin"] : null), "getNonce", array()), "html", null, true);
             echo "',
         language: '";
-            // line 13
+            // line 14
             echo twig_escape_filter($this->env, (($this->getAttribute($this->getAttribute((isset($context["grav"]) ? $context["grav"] : null), "user", array(), "any", false, true), "language", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute($this->getAttribute((isset($context["grav"]) ? $context["grav"] : null), "user", array(), "any", false, true), "language", array()), "en")) : ("en")), "html", null, true);
             echo "',
         pro_enabled: '";
-            // line 14
+            // line 15
             echo twig_escape_filter($this->env, $this->getAttribute($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "plugins", array()), "admin-pro", array(), "array"), "enabled", array()), "html", null, true);
             echo "',
         local_notifications: '";
-            // line 15
+            // line 16
             echo twig_escape_filter($this->env, (($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "system", array(), "any", false, true), "local_notifications", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "system", array(), "any", false, true), "local_notifications", array()), false)) : (false)), "html", null, true);
             echo "',
         site: {
             delimiter: '";
-            // line 17
+            // line 18
             echo twig_escape_filter($this->env, (($this->getAttribute($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "site", array(), "any", false, true), "summary", array(), "any", false, true), "delimiter", array(), "any", true, true)) ? (_twig_default_filter($this->getAttribute($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "site", array(), "any", false, true), "summary", array(), "any", false, true), "delimiter", array()), "===")) : ("===")), "html", null, true);
             echo "'
         }
@@ -72,11 +76,11 @@ class __TwigTemplate_e548ac5e2078f8209ee7752a9ab3bac2d9de251377c9e4c5555baafa150
     window.GravAdmin.uri_params = {};
 
     ";
-            // line 22
+            // line 23
             $context['_parent'] = $context;
             $context['_seq'] = twig_ensure_traversable($this->getAttribute($this->getAttribute((isset($context["grav"]) ? $context["grav"] : null), "uri", array()), "params", array(0 => null, 1 => true), "method"));
             foreach ($context['_seq'] as $context["param"] => $context["value"]) {
-                // line 23
+                // line 24
                 echo "        window.GravAdmin.uri_params.";
                 echo twig_escape_filter($this->env, $context["param"], "html", null, true);
                 echo " = \"";
@@ -87,7 +91,7 @@ class __TwigTemplate_e548ac5e2078f8209ee7752a9ab3bac2d9de251377c9e4c5555baafa150
             $_parent = $context['_parent'];
             unset($context['_seq'], $context['_iterated'], $context['param'], $context['value'], $context['_parent'], $context['loop']);
             $context = array_intersect_key($context, $_parent) + $_parent;
-            // line 25
+            // line 26
             echo "</script>
 ";
         }
@@ -105,13 +109,14 @@ class __TwigTemplate_e548ac5e2078f8209ee7752a9ab3bac2d9de251377c9e4c5555baafa150
 
     public function getDebugInfo()
     {
-        return array (  91 => 25,  80 => 23,  76 => 22,  68 => 17,  63 => 15,  59 => 14,  55 => 13,  51 => 12,  46 => 11,  40 => 9,  38 => 8,  34 => 7,  30 => 6,  26 => 5,  21 => 2,  19 => 1,);
+        return array (  95 => 26,  84 => 24,  80 => 23,  72 => 18,  67 => 16,  63 => 15,  59 => 14,  55 => 13,  50 => 12,  44 => 10,  42 => 9,  38 => 8,  34 => 7,  30 => 6,  26 => 5,  21 => 2,  19 => 1,);
     }
 }
 /* {% if authorize(['admin.login', 'admin.super']) %}*/
 /* <script type="text/javascript">*/
 /*     window.GravAdmin = window.GravAdmin || {};*/
 /*     window.GravAdmin.config = {*/
+/*         current_url: '{{ uri.route(true) }}',*/
 /*         base_url_relative: '{{ base_url_relative }}',*/
 /*         route: '{{ admin.route|trim('/') }}',*/
 /*         param_sep: '{{ config.system.param_sep }}',*/

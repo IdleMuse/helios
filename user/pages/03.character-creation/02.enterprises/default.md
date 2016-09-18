@@ -2,6 +2,8 @@
 title: Enterprises
 ---
 
+!! This page contains many dead links to content that is not finalised yet!
+
 # Starting Enterprises
 
 Every player starts with an enterprise chosen from this page, and may obtain more through play. Each enterprise gives you either various additional abilities, income, or prestige.

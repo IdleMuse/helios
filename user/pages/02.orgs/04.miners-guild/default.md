@@ -1,5 +1,6 @@
 ---
 title: 'The Miner''s Guild'
+published: false
 ---
 
 # Miner's Guild

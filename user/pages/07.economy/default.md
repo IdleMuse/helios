@@ -27,7 +27,7 @@ Initially, no orgs will have any upkeep costs to pay - all minor upkeep for ship
 
 ### Players
 
-Each player has a personal income each cycle. At game start, this will be 2500cr/cycle. It is not specified where this money comes from; for some orgs this may represent a salary, or it may represent a legacy of your [Background](/character-creation/backgrounds). In some orgs (notably the Miner's Guild), the council do regular jobs in the org as well as serving on the council; it is up to you to decide where this money comes from.
+Each player has a personal income each cycle. At game start, this will be **2500cr/cycle**. It is not specified where this money comes from; for some orgs this may represent a salary, or it may represent a legacy of your [Background](/character-creation/backgrounds). In some orgs (notably the Miner's Guild), the council do regular jobs in the org as well as serving on the council; it is up to you to decide where this money comes from.
 
 Players may supplement this income with additional money from other sources; some [Enterprises](/character-creation/enterprises) provide income, orgs can give money to individuals, and individuals can bull and sell on the market just as orgs can.
 

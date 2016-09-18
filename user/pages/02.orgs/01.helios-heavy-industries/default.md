@@ -1,5 +1,6 @@
 ---
 title: 'Helios Heavy Industries'
+published: false
 ---
 
 # Helios Heavy Industries

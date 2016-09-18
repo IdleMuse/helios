@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/public/user/plugins/admin/languages/tlh.yaml',
-    'modified' => 1471297026,
+    'modified' => 1474226705,
     'data' => [
         'PLUGIN_ADMIN' => [
             'LOGIN_BTN_FORGOT' => 'lIj',

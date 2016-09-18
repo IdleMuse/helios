@@ -37,9 +37,9 @@ Each character has a background in one of the following general areas:
 ### [Enterprise](/character-creation/enterprises)
 Each character begins with one Enterprise chosen from the following types:
 + Ship
-  + (See article for templates)
+  + _Various designs_
 + Moon
-  + (See article for template)
+  + _Various options_
 + Orbital station
   + Spacedock
   + Research lab
@@ -47,13 +47,13 @@ Each character begins with one Enterprise chosen from the following types:
   + Wrecking yard
 + Asteroid Claim
   + Prospected (Various types of common and uncommon minerals)
-  + Unprospected (Random, but chance of rare minerals)
+  + Unprospected (Random minerals, but chance of rarer types)
 + Fighter squadron
-  + (See article for templates)
+  + _Various designs_
 + Surface detachment
-  + Mech
-  + Drone
+  + Mech unit
+  + Drone squadron
 + Status symbol
-  + Various types, all mechanically identical
+  + Various types, (all mechanically identical)
 
 ##### What to read next? Check out each of the headings above for more detail.

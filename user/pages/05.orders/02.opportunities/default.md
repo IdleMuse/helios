@@ -8,4 +8,4 @@ As well as the results of [orders](/orders), [feasibility reports](/orders/feasi
 
 Example:
 
-! It has been brought to your attention that the famous pirate Captain Mitchell is selling his fastest Reaver ship _The Jolly Rodger_ in an open auction on the Maze. We predict that at least 500kT of diamond will be required to make a competitive bid.
+!!! It has been brought to your attention that the famous pirate Captain Mitchell is selling his fastest Reaver ship _The Jolly Rodger_ in an open auction on the Maze. We predict that at least 500kT of diamond will be required to make a competitive bid.

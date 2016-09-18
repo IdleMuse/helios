@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://devtools/devtools.yaml',
-    'modified' => 1471681914,
+    'modified' => 1474226834,
     'data' => [
         'enabled' => true
     ]

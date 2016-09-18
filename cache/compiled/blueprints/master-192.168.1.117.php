@@ -1,13 +1,13 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1474201488,
-    'checksum' => '40e9f71bd91a97946c44484360c5f904',
+    'timestamp' => 1474226839,
+    'checksum' => '422324891598267d53f8e3b38dbab467',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
                 'file' => 'user/plugins/admin/blueprints/config/media.yaml',
-                'modified' => 1471297025
+                'modified' => 1474226705
             ]
         ],
         'system/blueprints/config' => [
@@ -31,7 +31,7 @@ return [
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/blueprints.yaml',
-                'modified' => 1471297025
+                'modified' => 1474226705
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/blueprints.yaml',
@@ -39,11 +39,11 @@ return [
             ],
             'plugins/devtools' => [
                 'file' => 'user/plugins/devtools/blueprints.yaml',
-                'modified' => 1471681913
+                'modified' => 1474226833
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
-                'modified' => 1471511267
+                'modified' => 1474226761
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/blueprints.yaml',
@@ -51,11 +51,11 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/blueprints.yaml',
-                'modified' => 1471085533
+                'modified' => 1474226755
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/blueprints.yaml',
-                'modified' => 1471085541
+                'modified' => 1474226699
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/blueprints.yaml',
@@ -63,7 +63,7 @@ return [
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/blueprints.yaml',
-                'modified' => 1471085591
+                'modified' => 1474226725
             ],
             'plugins/themer' => [
                 'file' => 'user/plugins/themer/blueprints.yaml',
@@ -2314,6 +2314,21 @@ return [
                 'name' => 'plugins.form.enabled',
                 'validation' => 'strict'
             ],
+            'plugins.form.built_in_css' => [
+                'type' => 'toggle',
+                'label' => 'PLUGIN_FORM.USE_BUILT_IN_CSS',
+                'highlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'Enabled',
+                    0 => 'Disabled'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.form.built_in_css',
+                'validation' => 'strict'
+            ],
             'plugins.form.files' => [
                 'type' => '_parent',
                 'name' => 'plugins.form.files',
@@ -3042,6 +3057,7 @@ return [
                 ],
                 'form' => [
                     'enabled' => 'plugins.form.enabled',
+                    'built_in_css' => 'plugins.form.built_in_css',
                     'files' => [
                         'multiple' => 'plugins.form.files.multiple',
                         'destination' => 'plugins.form.files.destination',

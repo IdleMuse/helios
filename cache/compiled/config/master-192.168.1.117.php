@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1474201481,
-    'checksum' => 'ff09175c64221c37603d502b121caf79',
+    'timestamp' => 1474226835,
+    'checksum' => '4ac4f9a95af95867e15ca93a771e040c',
     'files' => [
         'user/config' => [
             'media' => [
@@ -75,7 +75,7 @@ return [
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1471297025
+                'modified' => 1474226705
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
@@ -83,11 +83,11 @@ return [
             ],
             'plugins/devtools' => [
                 'file' => 'user/plugins/devtools/devtools.yaml',
-                'modified' => 1471681914
+                'modified' => 1474226834
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1471511267
+                'modified' => 1474226761
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
@@ -95,11 +95,11 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1471085533
+                'modified' => 1474226755
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1471085541
+                'modified' => 1474226699
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
@@ -107,7 +107,7 @@ return [
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1471085591
+                'modified' => 1474226725
             ],
             'plugins/themer' => [
                 'file' => 'user/plugins/themer/themer.yaml',
@@ -209,9 +209,14 @@ return [
             ],
             'form' => [
                 'enabled' => true,
+                'built_in_css' => true,
                 'files' => [
                     'multiple' => false,
-                    'destination' => '@self',
+                    'limit' => 10,
+                    'filesize' => 5,
+                    'destination' => 'self@',
+                    'avoid_overwriting' => false,
+                    'random_name' => false,
                     'accept' => [
                         0 => 'image/*'
                     ]
