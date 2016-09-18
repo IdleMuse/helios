@@ -9,7 +9,7 @@ Helios is a hybrid Grand Strategy/RPG, where players take on the role of importa
 
 ### What's possible?
 
-Though this is by no way an exhaustive lists, here's some of the things you might expect to do in Helios:
+Though this is by no way an exhaustive list, here's some of the things you might expect to do in Helios:
 
 _Asteroid mining_ | _Ship design_ | _Researching technology_ | _Constructing capital ships_ | _Fighting pirates_ | _Exploring new planets and moons_ | _Colonising and terraforming_
 ::|::|::|::|::|::|::
