@@ -1,0 +1,16 @@
+title: Helios
+author:
+  name: IdleMuse
+  email: idlemuse@ghostlit.co.uk
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Helios Wiki - Grand Strategy 4X RPG with multiple player factions'
+summary:
+  enabled: false
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

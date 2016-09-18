@@ -1,0 +1,11 @@
+email: idlemuse@ghostlit.co.uk
+fullname: 'Justin Dee'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$kQASciNoRTA.6iA1JAcN4.UDKbJbrfJDbpmLq09/NXe2qiRiKtUr6

@@ -1,0 +1,81 @@
+@import 'https://fonts.googleapis.com/css?family=Orbitron:400,500,700,900';
+
+html{
+  font-family: 'Orbitron', sans-serif;
+  font-size: 14px;
+  counter-reset: effect;
+}
+
+body{
+  background-color: #333;
+}
+
+.page{
+  display: block;
+  width: 210mm;
+  height: 297mm;
+  margin: 0 auto;
+  padding: 2mm;
+  background-color: white;
+  box-shadow: 0 14px 28px black,  0 10px 10px black;
+}
+
+.box{
+  display: block;
+  border: 2px solid black;
+  border-top: 0;
+  padding: 4px 8px;
+}
+.box:first-of-type, .box.lid{
+  border-top: 2px solid black;
+}
+
+h1{
+  display: inline;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.box img{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.box.content{
+  padding: 16px;
+  font-size: 12px;
+}
+.box.content::before{
+  counter-increment: effect;
+  content: "Effect " counter(effect) "\a\a";
+  white-space: pre;
+}
+
+.box .box{
+  margin-top: 15px;
+  padding: 10px;
+}
+
+/*--- Misc. Classes ---*/
+
+.box span{
+  float: right;
+}
+
+.smaller{
+  font-size: 12px;
+}
+
+.icon{
+  width: 100px;
+  float: left;
+  border: 2px solid #888;
+  border-radius: 8px;
+  margin: 0 10px 0 0 !important;
+}
+
+hr{
+  border-style: solid;
+  border-color: #888;
+}
