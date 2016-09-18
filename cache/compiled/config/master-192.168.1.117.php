@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1474226835,
-    'checksum' => '4ac4f9a95af95867e15ca93a771e040c',
+    'timestamp' => 1474228157,
+    'checksum' => '0db14159e7dd67ef8396c96376137a12',
     'files' => [
         'user/config' => [
             'media' => [
@@ -20,6 +20,10 @@ return [
             'plugins/breadcrumbs' => [
                 'file' => 'user/config/plugins/breadcrumbs.yaml',
                 'modified' => 1460306229
+            ],
+            'plugins/email' => [
+                'file' => 'user/config/plugins/email.yaml',
+                'modified' => 1474228157
             ],
             'plugins/login' => [
                 'file' => 'user/config/plugins/login.yaml',
@@ -181,12 +185,12 @@ return [
             ],
             'email' => [
                 'enabled' => true,
-                'from' => NULL,
+                'from' => 'helios@ghostlit.co.uk',
                 'from_name' => NULL,
-                'to' => NULL,
+                'to' => 'justin@ghostlit.co.uk',
                 'to_name' => NULL,
                 'mailer' => [
-                    'engine' => 'mail',
+                    'engine' => 'none',
                     'smtp' => [
                         'server' => 'localhost',
                         'port' => 25,
