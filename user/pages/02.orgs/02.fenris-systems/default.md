@@ -7,6 +7,10 @@ published: false
 
 ### History
 
+Fenris Systems are a conglomerate in the truest sense of the word. Funded by dynastic banking families, the corporation bought out, or merged with, all of its competitors, and paid its way into being one of the oldest Orgs in the system. No orbital station doesn't have some small part that bears the Fenris logo, no ship is entirely untouched by their advances in design and technology. They were the first org to buy out a whole planet ([Nexus](/planets/nexus)).
+
+Much of their operations are kept highly secret; even at times from other members of the org. Directors are expected to keep their own confidence as long as it is in furtherence of the Goals of the Company. No doubt there are many divisions that are kept 'off-the-books' for various reasons; the Fenris philosophy is that only those who need to know should know.
+
 ### Aesthetic
 
 ### Notable holdings
