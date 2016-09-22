@@ -38,3 +38,15 @@
 #header.scrolled #navbar span{
 	color: inherit !important;
 }
+
+/** Images **/
+
+.floatright{
+	float: right;
+	margin-left: 70px;
+}
+.center{
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}

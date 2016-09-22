@@ -7,20 +7,29 @@ published: false
 
 ### History
 
-### Aesthetic
+### Aesthetic and culture
+
+![](hhi.png?resize=400&class=floatright)
+Helios Heavy Industries technology is traditionally designed with clean, smooth lines. Their ships are protected by pure white ceramic armour carapaces, as are their mechs and drones. They build things with circles, curves, not so much organic as ergonomic. Form and function go hand-in-hand; whether in a consumer appliance, or a delicate yet deadly repeating plasma railgun 200m long.
+
+Where appropriate, the org uses a circluar golden sun symbol, though this is not as common as simply the letters **HHI**.
+
+Culturally, the Meru value their relatively utopian homemoons, and are strong patrons of arts, science, and culture. The Faith is based on Meru IV, the system-wide religion. A philosophy of perfection in thought and action is promoted throughout the org and its subsidiaries.
 
 ### Notable holdings
+
+At game start, HHI control three of the five 'large moons' around Meru - the three largest, Meru II, Meru III, and Meru IV. They own several capital ships, the largest of which is the _Meru Hephaestus_, a massive mobile stardock, capable of construction new ships on-board, a unique achievement to date.
 
 ### Vocabulary
 The Org Council of Helios Heavy Industries is known as the **Ruling Council**
 
-The player in charge of the fleet is known as the **Operations Executive**
+The player in charge of the fleet is known as the **Operations Director**
 
-The player in charge of financial affairs is known as the **Fiscal Executive**
+The player in charge of financial affairs is known as the **Fiscal Director**
 
-The player in charge of science is known as the **Research Executive**
+The player in charge of science is known as the **Research Director**
 
-The player in charge of construction is known as the **Construction Executive**
+The player in charge of construction is known as the **Construction Director**
 
 Helios Heavy Industries capital ships are not traditionally prefixed with anything, although there is a new tradition of prefixing them with "**_Meru_**" for their home planet (when built there). Example: the _Meru Thor_.
 
