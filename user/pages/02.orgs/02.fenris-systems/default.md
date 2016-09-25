@@ -1,6 +1,5 @@
 ---
 title: 'Fenris Systems'
-published: false
 ---
 
 # Fenris Systems
@@ -22,7 +21,7 @@ The corporate culture of Fenris Systems is one of privacy and profit. Much of th
 
 ### Notable holdings
 
-Fenris Systems control a small cluster of planets around ([Nexus I, II, and III](/planets/nexus)), but have widespread interests throughout the system. They maintain a sizeable fleet of ships, primarily smaller rather than larger. More details to come.
+Fenris Systems control a small cluster of planets around ([Nexus I, II, and III](/planets/nexus)), but have widespread interests throughout the system. They maintain a sizeable fleet of ships, primarily smaller rather than larger.
 
 ### Vocabulary
 The Org Council of Fenris Systems is known as the **Board of Directors**

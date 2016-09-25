@@ -1,11 +1,16 @@
 ---
 title: 'Helios Heavy Industries'
-published: false
 ---
 
 # Helios Heavy Industries
 
 ### History
+
+Helios Heavy Industries formed out of the numerous small ship-building (and weapon-building) corporations that grew up in orbit of Meru. The relatively early and easy colonisation of the moon of Meru, combined with their bounty in minerals, meant that Meruvian industry fed the continuing growth of humanity in the first century of human occupation in Helios. 
+
+As competition from belt-based co-operatives grew, many of those rival manufacturers ended up banding together for scientific advancement, hoping to beat the nascent Fenris Systems and Miner's Guild companies with superior technology in their ships. Eventually, Helios Heavy Industries, as the resulting conglomerate was called, was the first org to construct 'new' capital ships (as opposed to the Colonial Navy frigates that arrived in Helios with the [ark ships](/history)).
+
+Today, the org is dominant in its control of manufacturing in Meru's orbit, and has plans to expand into the belt planets too. Its headquarters, the _Olympia_, is a huge orbital (around Meru III), named for the Ark ship that brought people to this part of the system, the remains of which (now much-scavenged) are still visible, and a frequent tourist attraction.
 
 ### Aesthetic and culture
 
@@ -18,7 +23,9 @@ Culturally, the Meru value their relatively utopian homemoons, and are strong pa
 
 ### Notable holdings
 
-At game start, HHI control three of the five 'large moons' around Meru - the three largest, Meru II, Meru III, and Meru IV. They own several capital ships, the largest of which is the _Meru Hephaestus_, a massive mobile stardock, capable of construction new ships on-board, a unique achievement to date.
+At game start, HHI control three of the five 'large moons' around Meru - the three largest, Meru II, Meru III, and Meru IV. These moons are rich, abundant in minerals, and popular in tourism.
+
+They own several capital ships, the largest of which is the _Meru Hephaestus_, a massive mobile stardock, capable of construction new ships on-board, a unique achievement to date.
 
 ### Vocabulary
 The Org Council of Helios Heavy Industries is known as the **Ruling Council**

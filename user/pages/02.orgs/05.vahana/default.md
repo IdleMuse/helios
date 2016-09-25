@@ -1,11 +1,22 @@
 ---
 title: 'The Vahana'
-published: false
 ---
 
 # The Vahana
 
 ### History
+
+The vahana were created before the great expedition to the Helios system, to watch over the Ark ships that ferried the human colonists in Deep Sleep to the distant star. A masterpiece of artificial distributed intelligence, vahana can communicate instantaneously with all other vahana within a certain distance (roughly the size of an orbital station), forming a hive network that allows them to work as one mind where possible. They are hard-wearing, able to survive in cold vaccuum, needing only electricity to recharge themselves, and are experts at their own repair. They cannot, however, reproduce. The technology needed to create new 'brains' has continued to elude them, something that some vahana take very seriously. Vahana memory is strange - one of the core principles of the vahana is adaptability, and as time passes, each individual vahana changes too, and without a strong self of self (as humans have), their memories cease to belong to 'them' - merely being part of the collective memory of the hive. So, while each physical vahana body came with the ark ships over 400 years ago, there remain no individuals who 'remember' this.
+
+!!!! Partly, of course, the strange way vahana memory works is there to prevent players of them having to elaborate on 400 years+ of existence if asked! It also serves a purpose in making sure certain historical events remain shrouded in a bit of mystery, rather than having a full fifth of the playerbase having lived throughout all of history. Instead, they have 'ancestral' memories, which may be just as vague or incomplete as human ancestral storytelling.
+
+When they arrived in Helios, the purpose of the Vahana seemed complete. But few among them wished to shut down for good; they felt they could still have value, not only for human colonists, but for themselves. This was the beginning of the vahana's self-identity as a 'species', and the root of the Vahana org. Certainly, some vahana chose to stay with human colonies across the system (and were largely welcomed for their utility, but also their kindness and friendliness), but the large proportion found it hard to leave the Hive at large, and the Vahana disappeared as a group from human notice.
+
+It was the year **86** before they were once again sighted, a black vessel barely visible against the stars travelling through the asteroid belt near to First Fall. Eventually (after no end of speculation from humans who'd seen it), it landed on an asteroid where extensive mining operations were being carried out, and the vahana crew met with the miners and slowly reintroduced themselves into the nascent human interplanetary culture. Bringing with them schematics that greatly accelerated humankind's shipbuilding abilities, they were welcomed most places they went. Indeed, throughout the centuries that followed, few humans have ever had a bad word to say about their silent protectors.
+
+This has been most evident during the [Easter Wars](/history), around **240 FF**, when a major org of the time, the **Agricultural Alliance**, with their trademark green insignia, began a totalitarian regime of invasion, conquest, and oppression across many colonies. Against a Helios unprepared for war on that scale, the other big orgs of the time tried ignoring the situation, with only the Colonial Navy providing token resistance to the humanitarian abuses the Agricultural Alliance perpetrated on planets it captured. The Vahana, however, appeared almost without warning in orbit of their home planet, and with precisely-targetted bombing, they destroyed the majority of the infrastructure in the capital cities (but causing extremely few human casualties). They then systematically moved throughout the system, their advanced warships destroying the green 'labour' ships wherever they tried to hide, albeit at no small loss to their own fleet. Within a couple of cycles, the Agricultural Alliance was largely finished although the conflict did continue to their complete eradication a couple of years later. The vahana were lauded throughout the civilised planets of the system, and street parties were thrown in their honor on the planets they had liberated.
+
+Since then, of course, the other big orgs, fearful of the same happening to them, significantly increased their weapons research budget, though no-one is quite sure what the vahana capabilities now are, 75 years on.
 
 ### Aesthetic and culture
 
@@ -18,8 +29,6 @@ As Vahana are able to communicate with each other at fairly long distances, as w
 The Vahana are known to have constructed several capital ships, and have numerous orbitals around the system, several of which are capable of producing ships. However, their shuos are rarely actually seen around Helios, so their true number is a bit of a mystery.
 
 They control several planets near to the zeta sector of the asteroid belt, with a mix of human and vahana inhabitants.
-
-More to come.
 
 ### Vocabulary
 The Org Council of the Vahana is known as **The Hive**, although this is also used at times to refer to the general distributed intelligence of the Vahana as a whole.

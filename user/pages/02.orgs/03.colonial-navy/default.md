@@ -1,11 +1,16 @@
 ---
 title: 'The Colonial Navy'
-published: false
 ---
 
 # Colonial Navy
 
 ### History
+
+The Colonial Navy has existed since before humans arrived in Helios. Along with the three Ark ships in the great expedition, a small fleet of ships was sent alongside, headed by the massive _Coronus_. While the vahana took care of the ark ships proper, the naval fleet escort was operated by naval personnel on rotation from Deep Sleep. When the fleet arrived in the Helios system, with no need for naval superiority, the majority of the colonial fleet was abandoned, mothballed, with the crew descending planetside to form colonies as with the rest of the travellers, in this instance forming very militaristic communities with some notable success.
+
+However, as new shuttles and ships began to be built by these first-generation colonists, and communications and trade between these naval communities grew up, it became clear that not all the new human inhabitants of Helios were keen on collaboration. Piracy of the nascent interplanetary trade was rife, and the first attempts at building orbital platforms were sabotaged for valuable parts by pirates. As such, the leaders of all the naval colonies came together and decided to reactivate the aged colonial fleet to protect their sovereign space. This meeting was the first of many that would evolve into the Naval Command known today.
+
+This policy of protectionism has been taken to extremes at times - see below for details of the embarassing war against Fenris Systems, started in **290 FF** as a reaction to the increasing militarism of that org, which a particular faction of the Navy saw as a direct threat to their authority.
 
 ### Aesthetic and culture
 

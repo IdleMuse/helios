@@ -1,11 +1,16 @@
 ---
 title: 'The Miner''s Guild'
-published: false
 ---
 
 # Miner's Guild
 
 ### History
+
+Ever since the very early days of humanity's occupation of the Helios system, there has been a drive to gather resources to build bigger and better things, settlements, ships, orbitals. Some even liken the great expedition itself to a great gold rush to the stars. The [Ark ship](/history) _Orpheus_, which crashlanded on what is now the Guild's home planet, _First Fall_, contained a number of small exploration vessels, which were quickly outfitted for mining when it was discovered the adjacent asteroid belt was rich in minerals.
+
+It was in an around the asteroid belt that the culture of independant ship captains arose, mining, prospecting, and, if necessary, fighting off less ethical captains. Over time, these miners came together to form collectives, or small companies - working together for greater safety and profit. Customers would come to the biggest co-ops first when looking to buy ore, and so the biggest grew bigger, absorbing smaller groups, or outright buying them out. By the third century, there remained only two large organisations - the Miner's Guild, based around the spaceport at First Fall and the trading floor there which was already popular throughout the system, lead by Guildmaster Erin Orinoko, and the Taluwete Co-operative, based out of the nearby planet of Taluwete's Landing. By common agreement, and a large vote of their entire memberships, they merged in **376 FF**. The Guild was more powerful, more influential, and more recognised, and so despite it technically being a merger, the resulting org retained the name, logo, and overall structure it had before, mostly just abosrbing the assets of the Taluwete Co-op (to some discomfort from Taluwete natives). The only major change that resulted from it was the abolishment of the position of Guildmaster, executive control instead being invested in a commitee elected from the membership, which survives to this day.
+
+The more recent efforts of the Guild have been in streamlining the mining and refining process - most mining ships now have refining plants on board for common minerals, thanks to the research efforts of the guild.
 
 ### Aesthetic and culture
 
@@ -19,8 +24,6 @@ Miner's Guild bases tend to be oily, but well-run. The anti-hierarchical nature 
 The headquarters of the Miner's Guild is on [First Fall](/planets/first-fall), a largely barren planet near to the asteroid belt, which the Guild has considerable holdings in. They also control a couple of other planets around the outside of the belt.
 
 Ship-wise, the Guild doesn't have any capital ships, but it maintains a collection of other vessels, most of which are kitted out for some sort of mining or freighting activity.
-
-More to come.
 
 ### Vocabulary
 The Org Council of the Miner's Guild is technically called the **Committee**, although they are generally very casual.

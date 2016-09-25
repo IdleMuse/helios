@@ -16,6 +16,6 @@ The commonly-given explanation of where these names come from is that they were 
 
 Days within a cycle are numbered using "universal numerals" (I, II, III, IV, V, VI, VII, VIII, IX, and so on..), and the years are simply numbered (measured since [First Fall](/history)).
 
-An example date would thus be **XVI Ravi 316**, (the planned date of the first session of Helios!), the 16th day of the first cycle of the 316th year since humans (and vahana) arrived in the Helios system.
+An example date would thus be **XVI Ravi 316**, (the planned date of the first session of Helios!), the 16th day of the first cycle of the 316th year since humans (and vahana) arrived in the Helios system. Years are often suffixed 'FF', meaning 'years since [First Fall](/history)'.
 
 ##### For more interesting dates, see [History](/history)
