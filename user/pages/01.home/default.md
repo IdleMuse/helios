@@ -19,7 +19,7 @@ _Building a personal fortune_ | _Spreading new ideas and religion_ | _Trading ma
 
 Each session will comprise of the players, as prominent members of each org, making decisions that shape the direction and activities of that org. For convenience, all five orgs will meet at the same time, though they will not interact in a normal session. Due to the nature of the [Vahana](/orgs/vahana), they will meet online, but the four other orgs will meet to face-to-face (though with the possibility of remote arrangements being made if necessary from time to time).
 
-A session will begin with reports from the previous period, results of actions or orders issued, and opportunities and dispatches that have arisen in the meantime. The org will then discuss actions to be taken, and by the end of the session, individuals with responsibility for certain spheres of activity will write up orders, which will be sealed and signed to be processed before the next session. More information on [cycles](/time) and [roles](/orgs/roles-within-an-org/).
+A session will begin with reports from the previous period, results of actions or orders issued, and opportunities and dispatches that have arisen in the meantime. The org will then discuss actions to be taken, and by the end of the session, individuals with responsibility for certain spheres of activity will write up orders, which will be sealed and signed to be processed before the next session. More information on [cycles](/time) and [roles](/orgs/roles).
 
 My current plan is to run this on **Alternating Friday Evenings**, throughout university term, starting **Sunday Oct 16th**.
 

@@ -56,4 +56,6 @@ Each character begins with one Enterprise chosen from the following types:
 + Status symbol
   + Various types, (all mechanically identical)
 
+**On top of the above three choices, players also receive 2500cr/cycle.**
+
 ##### What to read next? Check out each of the headings above for more detail.
