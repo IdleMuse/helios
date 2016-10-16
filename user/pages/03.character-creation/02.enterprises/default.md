@@ -2,7 +2,7 @@
 title: Enterprises
 ---
 
-!! This page contains many dead links to content that is not finalised yet!
+!! This page contains many (dead) links to template pages - but templates aren't quite ready yet!
 
 # Starting Enterprises
 
@@ -18,14 +18,20 @@ See [Starting Ship Templates](/character-creation/enterprises/ship) for a list o
 
 The Moon enterprise represents a moon that you either rule or own outright. You can draw tax from your lunar citizens, though due to the size of moons, they can't be terraformed, and so are limited in population. Your moon also starts with a solar power station, and one structure on it, chosen from the following list:
 
-+ Mine ([Tier 1 materials](/economy/materials))
++ Mine
+  + Helium-3
+  + Thorium
+  + Iron
+  + Copper
 + Factory (Composites, Drones, or Mechs)
 + Lunar shield
 + Leisure complex
 + Temple
 
-! A starting enterprise moon has a population of X, producing a base tax income of **500cr/cycle**.
+! A starting enterprise moon has a population of **2500**, producing a base tax income of **500cr/cycle** at base rate of 20% tax.
 ! For more information on the options given, see [Structures](/science/technology/structures)
+
+If you choose a Factory or a Lunar shield, the moon also starts with a Solar Reactor (the power capacity of which will depend on how far from the sun your moon is).
 
 ### Orbital station
 
@@ -34,11 +40,11 @@ Unlike moons, orbital stations don't generate tax income; they are smaller, and 
 + **Spacedock** - Spacedocks are highly specialised orbital stations designed solely for the construction (and repair) of ships. Each Spacedock has a limit on the total displacement of ships it can be building at any one time; starting Enterprise spacedocks are large enough to build [Corvettes](/ships) but nothing larger.
 + **Research lab** - All research is done in orbital labs. For more information, see [Research](/science).
 + **Wrecking yard** - A wrecking yard is a station equipped to strip down ships and hulks for valuable materials, or to glean scientific intelligence from ships of other factions.
-+ **Fuel station** - Fuel stations are smaller orbital facilities dotted around the system for smaller ships that use simple Helium-3 fuel. As well as large storage tanks, fuel stations also tend to have a lot of convenience facilities for ship captains passing through, and a lot of small-scale trading occurs on these important stop-offs. Unlike the other orbital stations, fuel stations provide an income to their owners, although this depends on how much traffic flows through it.
++ **Fuel station** - Fuel stations are smaller orbital facilities dotted around the system for smaller ships that use simple Helium-3 fuel. As well as large storage tanks, fuel stations also tend to have a lot of convenience facilities for ship captains passing through, and a lot of small-scale trading occurs on these important stop-offs. Unlike the other orbital stations, fuel stations provide an income to their owners, although this depends on how much traffic flows through it. Fuel stations come with an attendant [small tanker](/character-creation/enterprises/fuel-station-tanker) to ferry fuel to them.
 
-All orbital stations have patterns much like ships (although as with player-owned ships, player-owned stations can be customised independently). See [Starting Orbital Templates](/character-creation/enterprises/orbital-station) for a list of patterns you can choose as your starting enterprise.
+Unlike ships, orbital stations do not operate on Pattern system - each one is an individual structure and they don't use 'parts'.
 
-! See [Orbital stations](/science/technology/orbitals) for details on how orbital stations function.
+! See **[Orbital stations](/science/technology/orbitals)** for details on how each orbital station functions.
 
 ### Asteroid claim
 
@@ -47,10 +53,17 @@ While the orgs ensure that the space around their territory is policed to a degr
 Mining claims can be staked by anyone, but registration with the guild has a cost associated with it, so a certain amount of prospecting occurs prior to staking claims (to avoid staking an extensive claim on worthless rubble). Characters starting with an asteroid claim enterprise can choose one of two types:
 
 + **Prospected** - A prospected claim may be one you have scanned yourself, or simply bought, but either way you know exactly what minerals it contains. The options are:
-  + (list of Tier 1-2 minerals)
-+ **Unprospected** - An unprospected claim is one that will likely contain some valuable materials, but which, you do not know. (Tier 2-4 minerals).
+  + Thorium
+  + Iron
+  + Copper
+  + Titanium
++ **Unprospected** - An unprospected claim is one that will likely contain some valuable materials, but which, you do not know. 
 
-!!!! The contents of unprospected claims are randomly determined when they are scanned, from a secret table.
+!!!! The contents of unprospected claims are randomly determined when they are scanned, from a table that includes (not at equal chances):
+!!!! + Titanium
+!!!! + Silver
+!!!! + Gold
+!!!! ... and more.
 
 ### Fighter Squadron
 
@@ -67,9 +80,11 @@ Where ships fight in space (and the upper atmosphere), controlling territory on 
 
 Mechs and drones have Patterns much like ships and orbitals. See [Starting Detachment Templates](/character-creation/enterprises/surface) for the list of detachments you can pick as a starting enterprise.
 
+Detachments chosen as starting enterprises come with a transport vessel to move them from planet to planet, the pattern for which is on the templates page above.
+
 ### Status Symbol
 
-Status symbols cover lots of other personal enterprises you might own. Structures like extravagant zoos, prisons, great temples, manufacturies for luxury goods, agricultural complexes, opera houses. For the most part they all act exactly the same, providing you with additional income.
+"Status symbol" is a term to cover lots of other personal enterprises you might own. Structures like extravagant zoos, prisons, great temples, manufacturies for luxury goods, agricultural complexes, opera houses. For the most part, they all act exactly the same, providing you with additional income.
 
 ! A Status Symbol enterprise increases your base income by **1000cr/cycle**.
 
@@ -87,7 +102,7 @@ When creating your character, you need to specify, for all enterprises, a locati
 + **Moon** - For Moon enterprises, you must choose a planet for your moon to be in orbit of (though it doesn't need to be controlled by your org!), either a [main belt planet](/planets) or [Meru](/planets/meru).
 + **Orbital station** - Orbital stations, like moons, need to be located around a planet, although unlike moons they must be in orbit of a planet (or large moon) in your org to operate (with the exception of fuel stations).
 + **Asteroid claim** - While the precise location of each asteroid claim is on record with the Miner's guild, mechanically all you need to specify is which [sector of the belt](/planets) it is in.
-+ **Fighter squadron/surface detachment** - Like a ship, all the location for these enterprises indicates is where they begin when you start play. For detachments, you must specify a territory on a planet for them to start in.
++ **Fighter squadron/surface detachment** - Like a ship, all the location for these enterprises indicates is where they begin when you start play. For detachments, you may specify a territory on a planet for them to start in.
 + **Status symbol** - Status symbols can only be located in your org, or in neutral territory; they cease to give you benefits if controlled by a rival org. They must either be in orbit, or in a territory on a planet.
 
 No enterprise can be located in 'dead space'. At start of game, this includes anywhere inside the innermost asteroid, or outside the planets of Meru and Benu.

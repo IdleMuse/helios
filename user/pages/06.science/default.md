@@ -52,7 +52,7 @@ While the capacity to create new AI on the same level as the [Vahana](/orgs/vaha
 
 At the beginning of the game, each org will have a pre-researched set of technologies. For the most part, these will overlap, though each org will have variations. Anything simpler than this initial set will be considered to be below the abstraction layer. For example, 'Fire' will not be written up as a technology, nor will 'Steel smelting'. Things that _seem_ like they should be possible with the existing technology level but don't seem to exist can be looked into with a [Feasibility Report](/orders/feasibility-reports) (the result of which may suggest further research)
 
-**For details of initial technologies, see [Technologies](/science/technologies).**
+**For details of initial technologies, see [Technologies](/science/technology).**
 
 ### Research and Development
 
