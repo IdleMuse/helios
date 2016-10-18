@@ -72,6 +72,7 @@ Orders are classified into broad categories:
 ##### Miscellaneous orders
 + Commission [Feasibility Report](/orders/feasibility-reports)
 + Adopt Policy
++ Manage Asset
 
 Each specific order may encompass numerous different possibilities (see each one for details)
 

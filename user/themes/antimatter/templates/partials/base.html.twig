@@ -72,6 +72,11 @@
                 <span><a href="#" id="toTop"><i class="fa fa-arrow-up"></i></a></span>
             </div>
             <p><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> <b>This wiki is still under construction. Please expect lots of dead pages which I have not yet published, or missing/incomplete information</b> <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+
+{% if config.plugins.snappygrav.enabled %}
+    <a href="{{ page.url }}:pdf" title="Get a complete PDF"><i class="fa fa-file-pdf-o"></i></a>
+{% endif %}
+
             <br>Made with <a href="http://getgrav.org">Grav</a></p>
         </footer>
         {% endblock %}
