@@ -1,4 +1,0 @@
-title: Technology Sheet
-'@extends':
-    type: default
-    context: blueprints://pages
