@@ -32,7 +32,12 @@ There are two primary types of reactor:
 + A solar reactor produces between **1.0** and **2.0 TW** depending on distance from the sun and thickness of atmosphere.
 + A thorium reactor produces a maximum of **5.0 TW** of power but consumes Thorium fuel.
 
-! A base Thorium reactor produces **1.0 + (KT of Thorium, squared) TW** if supplied at least **0.2 KT** of Thorium, up to a maximum of **5.0 TW** at **2.0 KT** of Thorium.
+! A base Thorium reactor produces **TW of power** if supplied at least **5.0 KT** of Thorium, up to a maximum of **20.0 KT** of Thorium. The formula to calculate power produced is: **1 + (Thorium/10 squared)**. In practice this means:  
+! **5 KT = 1 TW**  
+! **7 KT = 1.5 TW**  
+! **10 KT = 2.0 TW**  
+! **12.5 KT = 2.5 TW**  
+! **20 KT = 5.0 TW**
 
 Helium-3 reactors are also possible to build (common in small sizes on ships) and produce a maximum of 2 TW of power by consuming (vast) quantities of He3.
 
@@ -50,7 +55,7 @@ Of course, plenty of other types of factories exist on a smaller scale but are n
 
 ! **Drone** and **Mech** factories require **1.0 TW** to operate. Assuming they get this (and the necessary materials), they can complete one Build order in a cycle.
 
-! A **Composites** factory produces composties in batches of **1.0KT**. It can produce a number of batches in a cycle equal to **(Power provided in TW, squared, then rounded down)**.
+! A **Composites** factory produces composties in batches of **1.0KT**. It can produce a number of batches in a cycle equal to **(Power provided in TW x5)**.
 
 ! A Drone or Mech factory costs **3000cr**, **4.5kt of Iron**, **0.5kt of Gold**
 ! A Composites factory costs **2500cr**, **7.0kt of Titanium**, **0.2kt of Diamonds**

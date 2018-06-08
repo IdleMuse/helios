@@ -17,9 +17,9 @@ Ships in Helios come in five 'size classes':
 + **Yacht** - Yacht-sized vessels are prolific, covering a huge variety of smaller types of ship, from fighters to tankers, miners to freighters. Yachts generally required 2-5 crew, though may carry more.
 + **Corvette** - Corvettes have become increasingly popular in the last twenty years, being a very useful size of ship larger than a small yacht, but not really a true capital ship with the manpower and materials that requires. Corvettes are incredibly flexible, and are often customised to meet individual crew needs.
 + **Sloop** - Sloops are smaller than true capital ships, though they mount the same systems and require a similarly large number of crew to operate. The only type of sloop commonly-operated is the Frigate, a fast military vessel.
-+ **Capital Ship** - Capital ships are the largest and grandest of the size classes. Capital ships (to date only used for military purposes) vary from true battleships with heavy armour and long-range weapons, to the more modern carrier, with docking bays for smaller vessels. Unlike all other vessels, capital ships require an upkeep cost to maintain.
++ **Galleon** - Galleons are the largest and grandest of the size classes. To date only used for military purposes, they include true battleships with heavy armour and long-range weapons, to the more modern carrier, with docking bays for smaller vessels.
 
-Sometimes the term **Capital Ship** is used to refer to frigates as well as true capitals. This is because they are primarily comprised of the larger, capital-ship-sized ship parts.
+The term **Capital Ship** is used to refer to all ships of the Sloop class and above. They are built with different ship parts, sized for captial ships.
 
 ### Ship hulls and Patterns
 
@@ -49,7 +49,7 @@ Spacedock capacity is based on its size, of which there are three possibilities:
 !
 ! **Regular**: 3 Cutter | 2 Yacht | 1 Corvette  
 ! **Large**: 6 Cutter | 4 Yacht | 2 Corvette | 1 Sloop  
-! **Huge**: 9 Cutter | 6 Yacht | 3 Corvetter | 1 Sloop | 1 Capital Ship  
+! **Huge**: 9 Cutter | 6 Yacht | 3 Corvetter | 1 Sloop | 1 Galleon
 
 ##### [Materials](/economy/materials)
 
@@ -63,7 +63,7 @@ The materials cost of a ship is calculated by adding up the materials costs of t
 ! **Yacht**: x1  
 ! **Corvette**: x4  
 ! **Sloop**: x100  
-! **Capital**: x200  
+! **Galleon**: x200  
 
 ### Ship Combat
 

@@ -6,15 +6,15 @@ title: Orbitals
 
 Orbitals, aptly-named, live in orbit of planets (or large moons). As well as being of core importance to org operations, they represent a certain status - building large orbitals above a planet's surface is hard, and can only be done if an org controls territory on the planet below. Each of the main types of Orbital can do different things:
 
-### Spacedock
+### Shipyard
 
-A spacedock is big, floating shipyard, for constructing new vessels, and the ship parts to go in them. They tend to be busy places, as most orgs try to be making new ships as often as they can. Ships can be constructed in a Spacedock with a [Build Ships](/orders/build-ships) order, which needs a Ship Pattern to be specified for the shipyards to make.
+A shipyard is big, floating drydock, for constructing new vessels, and the ship parts to go in them. They tend to be busy places, as most orgs try to be making new ships as often as they can. Ships can be constructed in a Shipyard with a [Build Ships](/orders/build-ships) order, which needs a Ship Pattern to be specified for the shipyards to make.
 
-Spacedocks need materials to work, which can be taken from its own storage, org ships in orbit of the same planet, or from the planet surface.
+Shipyards need materials to work, which can be taken from its own storage, org ships in orbit of the same planet, or from the planet surface.
 
 For more information on building ships, see [Ships](/ships)
 
-! Regular Spacedocks cost 12.0kt Titanium, 2.8kt Composites, 4.5kt Iron, 2.2kt Silver
+! Regular Spacedocks cost 60.0kt Titanium, 14.0kt Composites, 22.5kt Iron, 11.0kt Silver
 
 ### Research lab
 
@@ -24,7 +24,7 @@ Science is done in research labs with the two main science orders: [Research dis
 
 For a more in-depth explanation of the R&D process, see [Science](/science).
 
-! Research Labs cost 15.0kt Titanium, 5.0kt Copper, 3.2kt Silver, 1.5kt Gold, 0.2kt Diamonds
+! Research Labs cost 30.0kt Titanium, 10.0kt Copper, 6.4kt Silver, 15.0kt Gold, 0.4kt Diamonds
 
 ### Wrecking yard
 
@@ -38,7 +38,7 @@ Stripping down a vessel or a wreck recovers a portion of the materials used to c
 !
 ! Scavenging a vessel of an org more advanced from you will generate a new Theory 100% of the time, if it contains a ship part unknown to you, and 10% of the time if not, or 10% and 1% for a wreck.
 
-! Wrecking yards cost 8.5kt Iron, 2.2kt Copper, 4.2kt Titanium
+! Wrecking yards cost 8.5kt Iron, 12.5kt Copper, 4.2kt Titanium
 
 ### Fuel station
 

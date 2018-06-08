@@ -23,17 +23,17 @@ The following technologies are common to all the five major orgs at the start of
 **Clipper**: Corvette, 22.0kt Iron, 0.5kt Titanium  
 **Large Miner**: Corvette, 13.8kt Iron, 1.6kt Titanium, 2.1kt Composites  
 
-**Frigate**: Sloop, 30kt Iron, 5kt Titanium, 4kt Composites  
+**Frigate**: Sloop, 30kt Iron, 15kt Titanium, 24kt Composites  
 
-**Battleship**: Capital ship, 120kt Iron, 20kt Titanium, 5kt Composites
-**Carrier**: Capital ship, 85kt Iron, 60kt Titanium, 45kt Composites, 12kt Copper
+**Battleship**: Capital ship, 120kt Iron, 20kt Titanium, 15kt Composites
+**Carrier**: Capital ship, 85kt Iron, 30kt Titanium, 25kt Composites, 22kt Copper
 
 ## List of Regular Ship Parts
 
 #### Reactors
 
 **Toroid Microreactor**: Uses He3 fuel, 700MW, 2.4kt Titanium, 0.2kt Copper, 0.4kt Gold  
-**High-temp Toroid Reactor**: Uses He3 fuel, 2000MW, 20.0kt Titanium, 3.5kt Iron, 7.2kt Gold  
+**High-temp Toroid Reactor**: Uses He3 fuel, 2000MW, 8.4kt Titanium, 3.5kt Iron, 7.2kt Gold  
 
 #### Engines
 
@@ -65,8 +65,8 @@ The following technologies are common to all the five major orgs at the start of
 
 **Auxilliary Fuel Bladder**: 8.0kt Composites, 2.0kt Titanium  
 **Additional Cargo Storage**: 2.0kt Composites, 2.0kt Iron  
-**Basic Mining Module**: Mining rate 1.0, 50MW, 12.0kt Iron, 1.5kt Composites, 1.5kt Diamonds  
-**Basic Refinery**: Refinery rate 2.5, 100MW, 18.0kt Titanium, 5.8kt Copper, 0.8kt Composites  
+**Basic Mining Module**: Mining rate 0.2, 50MW, 12.0kt Iron, 1.5kt Composites, 1.5kt Diamonds  
+**Basic Refinery**: Refinery rate 0.5, 100MW, 18.0kt Titanium, 5.8kt Copper, 0.8kt Composites  
 **Maneuvering Thrusters**: 40MW, 3.8kt Copper, 1.0kt Iron, 1.2kt Titanium
 
 #### Scanners

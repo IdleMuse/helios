@@ -28,15 +28,13 @@ Ship-wise, the Guild doesn't have any capital ships, but it maintains a collecti
 ### Vocabulary
 The Org Council of the Miner's Guild is technically called the **Committee**, although they are generally very casual.
 
-This casual attitude extends to the major roles within the org, none of which have formal names...
+The Committee has recently undergone some changes, so unlike the other orgs, they have only three Major roles:
 
-The player in charge of the fleet might be known as **Amélie, the one who you go to if you've been attacked by pirates**
+The **Guildmaster** is in charge of fleet movement, mining operations, and logistics.
 
-The player in charge of financial affairs might be known as **Dave, you give him all your reciepts**
+The **Secretary** is in command of diplomacy.
 
-The player in charge of science might be known as **The lady over there with her head in a book**
-
-The player in charge of construction might be known as the **Jem, she knows how all this stuff actually works**
+The **Chair of Research and Construction** is responsible for R&D and construction.
 
 Capital ships of the Miner's Guild are traditionally prefixed "**_GS_**" for _Guild Ship_, though often they weren't actually owned by the org originally, so are named at the whim of their owners, or they bear the older "**_GMS_**" for _Guildmaster's Ship_, back when there was a formal Guildmaster.
 

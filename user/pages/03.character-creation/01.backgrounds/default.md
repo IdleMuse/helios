@@ -2,7 +2,7 @@
 title: Backgrounds
 ---
 
-!! This section includes lots of 'X%' placeholders - these will be filled in before the game begins!
+!! This section includes lots of 'X%' placeholders - these will be filled in Soon!
 
 # Character Backgrounds
 
@@ -47,7 +47,7 @@ Each org has its own military forces, as do, to some extend, many planets. A mil
 
 Alternatively, your military background may be somewhat less well-known. Corporate and Military espionage is a a big deal when one stolen secret can make the difference between gaining a planet and losing a fleet.
 
-! **An Espionage background increases the effectiveness of Espionage Orders you issue by X%, increases the effectiveness of Espionage actions you perform by X%, and improves your org's resistance to espionage proportional to the number of players in it.**
+! **An Espionage background increases the effectiveness of Espionage Orders you issue by 5%, allows you to perform espionage personally as a rating 1.0 agent, and improves your org's resistance to espionage by a maximum of 20%, reduced proportional to the number of players in it.**
 
 ## Finance
 

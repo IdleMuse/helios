@@ -1,0 +1,39 @@
+coords,pattern,org,fleet size,standing_orders
+ZAB,Prospector-class Scout,MG,4,
+GAB,Felling-class Remote Miner,MG,2,"Mine Vanadium, do not engage"
+1117,Beluga-class Clipper,MG,2,
+0707,Beluga-class Clipper,MG,,
+1117,MG Tug,MG,2,
+1117,Cargo Container,MG,16,
+1117,MG Medium Freighter,MG,2,
+0611,MG Medium Freighter,MG,,
+0907,MG Strike Fighter,MG,5,
+0614,MG Strike Fighter,MG,5,
+AAB,MG Corvette,MG,1,
+1516,MG Corvette,MG,3,
+0907,MG Corvette,MG,1,Defend fleet
+1117,MG Corvette,MG,2,
+AAB,MG Corvette,MG,3,"Patrol sector, defend fleet, defend claims"
+GAB,MG Interceptor,MG,30,"Patrol sector, defend fleet, defend claims"
+EAB,MG Interceptor,MG,30,"Patrol sector, defend fleet, defend claims"
+BAB,MG Corvette,MG,5,"Patrol sector, defend fleet, defend claims"
+BAB,Felling-class Remote Miner,MG,3,"Mine Copper (1.5 claim), Do not engage"
+GAB,MG Small Freighter,MG,2,Shuttle Vanadium from GAB to 1516
+BAB,MG Small Freighter,MG,3,Shuttle Copper from BAB to 1117
+EAB,MG Small Tanker,MG,1,
+BAB,MG Small Tanker,MG,1,
+BAB,Felling-class Remote Miner,MG,2,Mine Thorium
+BAB,MG Small Freighter,MG,2,"Shuttle Thorium from BAB to 1516, do not engage"
+AAB,Felling-class Remote Miner,MG,2,Mine Iron
+AAB,Felling-class Remote Miner,MG,1,Mine Copper
+AAB,MG Small Freighter,MG,1,Shuttle Iron from AAB to 1117
+AAB,MG Small Freighter,MG,1,Shuttle Copper from AAB to 1117
+EAB,MG Medium Freighter,MG,2,Shuttle Gold from EAB to 0907
+EAB,Sakhalin-class Large Miner,MG,,"Mine Gold, do not engage"
+0816,Sakhalin-class Large Miner,MG,,"Mine Diamonds, do not engage"
+0907,Sakhalin-class Large Miner,MG,,"Mine Silver, do not engage"
+0907,MG Small Freighter,MG,,Shuttle Silver from 0907 to 1117
+0614,Sakhalin-class Large Miner,MG,2,"Mine Titanium, do not engage"
+0614,MG Medium Freighter,MG,,Shuttle Any from 0614 to 0816
+AAB,(personal Large Miner -  Dave Hollister),MG,,"Mine Thorium, do not engage"
+AAB,MG Medium Freighter,MG,,Shuttle Thorium from AAB to 1516
